@@ -74,7 +74,7 @@ text-align:center;
   bottom: -5px;
   right: 0;
   width: 30px;
-  background: rgb(249, 105, 14);
+  background: rgb(14, 46, 226);
   border-radius: 50%;
   margin: 0 auto;
   left: 0;
@@ -87,7 +87,7 @@ text-align:center;
   border-radius: 0;
 }
 .btn.btn-primary {
-  background: #CD4F00;
+  background: #00cd11;
 }
 .btn.btn-primary:hover,
 .btn.btn-primary:focus {
