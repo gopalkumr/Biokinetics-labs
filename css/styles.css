@@ -586,7 +586,7 @@ margin: 0 8px;
   background: #07080A;
   background: url('../images/img2.jpg');    
   background-size: cover;  };
-}
+
 #about .column-title{
 color:#fff;
 }
@@ -844,7 +844,7 @@ color: #FFFFFF;
 }
 /*Contact*/
  .contact-info{
- background: #F9690E;
+ background: #095f4a;
  padding: 50px;
  margin-bottom: 50px;
 }
