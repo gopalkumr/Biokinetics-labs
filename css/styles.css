@@ -765,10 +765,10 @@ margin: 0;
   border-radius: 100px;
   margin-bottom: 20px;
 }
-#pricing {
+#advisory {
   padding: 100px 0 70px;
 }
-#pricing ul.pricing {
+#advisory ul.advisory {
   list-style: none;
   padding: 0;
   margin: 70px 0 30px;
@@ -777,11 +777,11 @@ margin: 0;
   text-align: center;
   background: #B8B8B8;
 }
-#pricing ul.pricing li {
+#advisory ul.advisory li {
   display: block;
   padding: 10px;
 }
-#pricing ul.pricing li.plan-header {
+#advisory ul.advisory li.plan-header {
   background: #FFFFFF; 
   padding: 15px 15px 30px;
   color: #050505 !important;
@@ -789,7 +789,7 @@ margin: 0;
   border-radius: 50%;
   height: 225px;
 }
-#pricing ul.pricing li.plan-header .price-duration {
+#advisory ul.advisory li.plan-header .price-duration {
   position: relative;
   margin-top: 15px;
   top: -16px;
@@ -801,19 +801,19 @@ margin: 0;
 li.plan-purchase .btn {
   width: 100%;
 }
-#pricing ul.pricing li.plan-header .price-duration > span {
+#advisory ul.advisory li.plan-header .price-duration > span {
   display: block;
   line-height: 1;
 }
-#pricing ul.pricing li.plan-header .price-duration > span.price {
+#advisory ul.advisory li.plan-header .price-duration > span.price {
   font-size: 24px;
   font-weight: 700;
   margin-top: 35px;
 }
-#pricing ul.pricing li.plan-header .price-duration > span.duration {
+#advisory ul.advisory li.plan-header .price-duration > span.duration {
   margin-top: 5px;
 }
-#pricing ul.pricing li.plan-header .plan-name {
+#advisory ul.advisory li.plan-header .plan-name {
   margin-top: 10px;
   font-size: 24px;
   color: #5A5A5A;
@@ -821,19 +821,19 @@ li.plan-purchase .btn {
   line-height: 1;
   text-transform: uppercase;
 }
-#pricing ul.pricing.featured {
+#advisory ul.advisory.featured {
   background: #151515; 
   border: 0;
   color: #D2D2D2;
   border: 1px solid #D0D0D0;
 }
-#pricing ul.pricing.featured  li.plan-header .price-duration{
+#advisory ul.advisory.featured  li.plan-header .price-duration{
 color: #FFFFFF;
 }
-#pricing ul.pricing.featured li.plan-header {
+#advisory ul.advisory.featured li.plan-header {
   background: #F9690E;
 }
-#pricing ul.pricing.featured li.plan-header .plan-name {
+#advisory ul.advisory.featured li.plan-header .plan-name {
   color: #FFFFFF;
 }
 #contact-us {
