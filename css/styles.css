@@ -945,3 +945,41 @@ margin: 9px auto;
 padding: 7px 0 0;
 }
 }
+
+
+
+
+.portfolio-container {
+  width: 100%;
+  display: flex;
+  justify-content: center; /* Center the images horizontally */
+}
+
+.portfolio-items {
+  display: flex;
+  justify-content: center; /* Center the images horizontally */
+  align-items: center;
+  flex-wrap: wrap; /* Allow items to wrap to the next line if necessary */
+  padding: 20px;
+  background-color: #f9f9f9; /* Light background color */
+  gap: 20px; /* Add some space between the images */
+}
+
+.portfolio-item {
+  flex: 0 1 auto; /* Allow the items to grow and shrink without setting a specific base width */
+  margin: 20px; /* Add margin around each image for spacing */
+  transition: transform 0.5s ease-in-out;
+}
+
+.portfolio-item-inner {
+  position: relative;
+  width: 150px; /* Uniform width */
+  height: 150px; /* Uniform height */
+  overflow: hidden;
+}
+
+.portfolio-item img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain; /* Maintain aspect ratio while fitting inside the container */
+}
