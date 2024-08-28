@@ -583,15 +583,14 @@ margin: 0 8px;
 }
 #about {
   padding: 100px 0;
-  background: #07080A;
-  background: url('../images/img2.jpg');    
-  background-size: cover;  };
+  background: #eaeaeb;
 
+}
 #about .column-title{
-color:#fff;
+color:#229a86;
 }
 #about p{
-color:#fff;
+color:#020000;
 }
 #about .listarrow li{
 color:#fff;
